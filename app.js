@@ -1,6 +1,6 @@
-const a =document.getElementById("password").innerHTML
-console.log(a);
-
+const a =document.getElementById('avalinjomle');
+const b =a.innerHTML
+console.log(b);
 
 
 // function myFunction(inserttrxt) {

@@ -1,6 +1,8 @@
-const a =document.getElementById('avalinjomle');
-a.innerHTML = "dom ro taghir dadam"
 
+const a =document.querySelector('#manipul')
+console.log(a);
+
+a.innerHTML +=' <br>'+ 'Successfully manipulated the dom'
 
 
 // function myFunction(inserttrxt) {

@@ -1,8 +1,13 @@
 .showdom{
-    margin: 40px;
+    margin: 20px;
     color: blueviolet;
     size: 100px;
     border-radius: 2ex;
+    width: 200px;
+    height: 50px;
+    text-size-adjust: 50%;
+    text-shadow: 20px;
+    
 }
 #username {
     padding: 8px;

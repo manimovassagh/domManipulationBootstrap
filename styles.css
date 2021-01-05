@@ -34,3 +34,11 @@ body > label:nth-child(1){
 body{
     background-color: rgb(155, 151, 151);
 }
+.mb-2{
+    width: 200px;
+   
+   margin:0%;
+}
+.d-flex justify-content-center{
+    padding-top: 100px;
+}

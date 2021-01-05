@@ -1,6 +1,6 @@
 const a =document.getElementById('avalinjomle');
-const b =a.innerHTML
-console.log(b);
+a.innerHTML = "dom ro taghir dadam"
+
 
 
 // function myFunction(inserttrxt) {

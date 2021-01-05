@@ -1,0 +1,44 @@
+#doe{
+    margin: 20px;
+    color: blueviolet;
+    size: 100px;
+    border-radius: 2ex;
+    width: 200px;
+    height: 50px;
+    text-size-adjust: 50%;
+    text-shadow: 20px;
+    font-family: Redressed;
+    font-size: larger;
+   
+    
+}
+#username {
+    padding: 8px;
+    margin: 10px;
+}
+#password {
+    padding: 8px;
+    margin: 10px;
+}
+body > label:nth-child(4){
+    color: crimson;
+    font-size: larger;
+    font-family: Redressed;
+}
+body > label:nth-child(1){
+    color: crimson;
+    font-size: larger;
+    
+    font-family: Redressed;
+}
+body{
+    background-color: rgb(155, 151, 151);
+}
+.mb-2{
+    width: 200px;
+   
+   margin:0%;
+}
+.d-flex justify-content-center{
+    padding-top: 100px;
+}

@@ -1,0 +1,22 @@
+.showdom{
+    margin: 40px;
+    color: blueviolet;
+    size: 100px;
+    border-radius: 2ex;
+}
+#username {
+    padding: 8px;
+    margin: 10px;
+}
+#password {
+    padding: 8px;
+    margin: 10px;
+}
+body > label:nth-child(4){
+    color: crimson;
+    font-size: larger;
+}
+body > label:nth-child(1){
+    color: crimson;
+    font-size: larger;
+}
